@@ -548,3 +548,15 @@ html {
     outline: 2px solid hsl(var(--primary));
     outline-offset: 2px;
 }
+
+.cta-bottom {
+  background-color: #f8f9fb;
+  padding: 60px 0;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.cta-bottom .cta-button {
+  margin-top: 20px;
+  font-size: 1.1rem;
+}
